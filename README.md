@@ -1,1 +1,3 @@
 # snake
+
+![](gif/snake.gif)
