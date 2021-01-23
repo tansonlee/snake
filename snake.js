@@ -6,7 +6,7 @@ function Snake() {
 
 	this.eat = function() {
 		this.tailSections++;
-		backCol = color(random(255), random(255), random(255));
+		backCol = color(random(100) + 155, random(100) + 155, random(100) + 155);
 	}
 
 	this.dir = function(x, y) {

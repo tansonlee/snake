@@ -9,7 +9,7 @@ function setup() {
 	snake1 = new Snake();
 	snake2 = new Snake();
 	food = new Food();
-	backCol = color(random(255), random(255), random(255));
+	backCol = color(random(100) + 155, random(100) + 155, random(100) + 155);
 }
 
 
